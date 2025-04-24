@@ -6,9 +6,10 @@ This project explores various facets of the entertainment industry, specifically
 
 ## Project Overview
 
-The entertainment industry plays a significant role in shaping culture, driving technological innovation, and providing entertainment to billions. This project aims to explore the growth strategies, streaming trends, and business challenges in the entertainment industry using data-driven approaches, specifically analyzing the Jio Hotstar platform.
+The entertainment industry plays a significant role in shaping culture, driving technological innovation, and providing entertainment to billions. This project aims to explore the growth strategies, streaming trends, and business challenges in the entertainment industry using data-driven approaches, specifically analyzing the Jio Hotstar platform.The data used in this project is **simulated** to replicate typical user behavior on a streaming platform. The dataset includes metrics such as user sign-ups, engagement, retention, and conversion rates. While this data does not reflect actual user behavior, it is designed to simulate realistic patterns that demonstrate the analysis techniques.
 
-The project is divided into three major parts:
+
+**The project is divided into three major parts:**
 
 ## PART I: Product Dissection, Database Management, and Revenue Growth
 
