@@ -36,6 +36,6 @@ The project is divided into three major parts:
 
 ## PART III: Scenario-Based Questions
 
-**Scenario 1:** Analyze premium subscription renewal rates for Jio Hotstar users and suggest strategies to improve retention.
+**Scenario 1:** Analyze premium subscription renewal rates for Jio Hotstar users and suggest strategies to improve retention and performed cohort analysis for the same.
 
 **Scenario 2:** Design an A/B test to evaluate tutorial designs in a mobile game, analyze the results, and provide recommendations.
