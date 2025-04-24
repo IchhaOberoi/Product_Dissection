@@ -18,7 +18,7 @@ The project is divided into three major parts:
 
 **Real-World Problems:** Examine the problems that Jio Hotstar aims to solve, such as content discovery, user engagement, and monetization of content.
 
-**Schema Design and ER Diagram:** Created a database schema reflecting the platform's structure, including user data, content data, and subscription data and utilized https://dbdiagram.io/d/67eba6914f7afba184e9ca18 for creating ER Diagram
+**Schema Design and ER Diagram:** Created a database schema reflecting the platform's structure, including user data, content data, and subscription data and utilized https://dbdiagram.io/d/67eba6914f7afba184e9ca18  for creating ER Diagram.
 
 **Revenue and Profit Growth Strategies:** Propose strategies to increase Jio Hotstar’s profit by at least 25%, backed by data-driven justifications and a comprehensive case study.
 
